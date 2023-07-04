@@ -1,0 +1,9 @@
+﻿John Smith Jane Smith Damien Stayne Johannes Hartl
+Reds Blues
+Johannes Hartl Blues Damien Stayne Blues John Smith Reds
+John Smith
+Normal NORM12 2022.01.34 abst abst yes abst
+Constitutional ABC123 2022.02.01 yes yes no yes
+Cardinal ABC124 2022.02.02 yes abst no yes
+Constitutional ABC234 2022.02.05 yes abst yes no
+Normal NORM13 2022.03.01 no no no no
